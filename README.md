@@ -1,36 +1,38 @@
-- 👋 Hi, I’m Chittem Venkata Lohitha
-- 👀 I’m interested in  Ful Stack Web Dev and Machine Learning ...
-- 🌱 I’m currently learning MERN...
-- 💞️ I’m looking to collaborate on various real time projects for my career growth ...
-- 📫 How to reach me Mail:itsmelohitha14@gmail.com ...
+# 👋 Hi, I’m Chittem Venkata Lohitha
 
+- 👀 I’m passionate about **Full Stack Web Development** and **Machine Learning**  
+- 🌱 Currently diving deeper into the **MERN Stack**  
+- 💡 Always eager to collaborate on **innovative and impactful projects**  
+- 💞️ Open to working on **real-time projects** to expand my skills and career  
+- 📫 Reach me at: **itsmelohitha14@gmail.com**
 
+---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-🔹 Languages
+### 🔹 Languages  
 Java • Python • SQL
 
-🔹 Web Technologies
+### 🔹 Web Technologies  
 HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React.js • PHP
 
-🔹 Tools
+### 🔹 Tools  
 Figma • Google Colab • GitHub • VS Code • Postman • Canva
 
-🔹 Libraries
+### 🔹 Libraries  
 NumPy • Pandas
 
-🔹 Soft Skills
+### 🔹 Soft Skills  
 Communication • Time Management • Work Ethic • Problem Solving • Quick Learner
 
-🔹 Non-Technical
+### 🔹 Non-Technical  
 Oratory • Video Editing • Graphic Designing
 
+---
 
+## 📊 Featured Projects
 
-📊 Featured Projects
-
-🧑‍🏫 Learners Academy – Course Management System  
+### 🧑‍🏫 Learners Academy – Course Management System  
 A role-based learning management platform featuring dashboards for Admin, Instructor, and Student roles.  
 🛠️ **Tech Stack:** PHP • HTML5 • CSS3 • JavaScript • MySQL  
 ✨ **Features:**
@@ -46,4 +48,4 @@ A socially driven MERN-based web platform that connects clothing donors with orp
 ✨ **Features:**
 - 📤 Donor uploads with image previews  
 - 🛡️ Admin dashboard for fraud detection and donation analytics  
-- 🔐 Secure item access for verified recipients  
+- 🔐 Secure item access for verified recipients
