@@ -10,8 +10,11 @@
 
 ## 💻 Tech Stack
 
-### 🔹 Languages  
-Java • Python • SQL
+### 🔹 Programming Languages  
+Java • Python 
+
+### 🔹 Database
+SQL • MongoDB
 
 ### 🔹 Web Technologies  
 HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React.js • PHP
